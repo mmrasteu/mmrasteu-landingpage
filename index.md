@@ -1,3 +1,8 @@
+---
+layout: default
+title: M. M. Rasteu - Backend Developer
+---
+
 # M. M. Rasteu - Backend Developer
 
 ## Web en desarrollo
