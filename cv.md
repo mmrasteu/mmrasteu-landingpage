@@ -56,7 +56,7 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 
 ---
 
-### **Junior Full-Stack Developer - InterHanse Outsourcing Services**  
+### **Junior Full-Stack Developer - Kuehne + Nagel (Subcontrata de Airbus)**  
 📅 *Oct 2018 - Abr 2020* | 📍 Cádiz, Andalucía (Presencial)  
 
 - Desarrollo de aplicaciones web internas.  
