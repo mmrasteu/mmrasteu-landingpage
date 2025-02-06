@@ -18,20 +18,20 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 
 ## Experiencia
 
-### **Freelance Software Engineer (Profesional independiente)**  
-📅 *Abr 2020 - Actualidad* | 🌍 Teletrabajo  
-
-- Desarrollo de aplicaciones y páginas web para terceros, además de proyectos propios.  
-- Uso de tecnologías: PHP, JavaScript, SQL, NoSQL, Laravel, Python y scripting.  
-
----
-
 ### **Senior PHP Developer - Monbus**  
 📅 *Jun 2024 - Actualidad* | 📍 Lugo, Galicia (Presencial)  
 
 - Desarrollo de nuevas funcionalidades para API REST y aplicaciones web internas.  
 - Tecnologías: PHP, JavaScript, Next.js, scripting Bash, GIT, Symfony, SQL.  
-- Auditorías de seguridad web con Burp Suite.  
+- Auditorías de seguridad web con Burp Suite.
+
+---
+
+### **Freelance Software Engineer (Profesional independiente)**  
+📅 *Abr 2020 - Actualidad* | 🌍 Teletrabajo  
+
+- Desarrollo de aplicaciones y páginas web para terceros, además de proyectos propios.  
+- Uso de tecnologías: PHP, JavaScript, SQL, NoSQL, Laravel, Python y scripting.    
 
 ---
 
