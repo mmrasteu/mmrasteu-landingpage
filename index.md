@@ -1,4 +1,9 @@
-# Web en desarrollo
+---
+layout: default
+title: M. M. Rasteu - Backend Developer
+---
+
+## Web en desarrollo
 
 Bienvenido a mi portfolio de desarrollador backend, mi nombre es Miguel Ángel Magrañal Rasteu y llevo desarrollando desde 2018.
 
