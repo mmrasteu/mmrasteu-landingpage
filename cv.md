@@ -31,7 +31,7 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 📅 *Abr 2020 - Actualidad* | 🌍 Teletrabajo  
 
 - Desarrollo de aplicaciones y páginas web para terceros, además de proyectos propios.  
-- Uso de tecnologías: PHP, JavaScript, SQL, NoSQL, Laravel, Python y scripting.    
+- Tecnologías: PHP, JavaScript, SQL, NoSQL, Laravel, Python y scripting.    
 
 ---
 
@@ -74,7 +74,7 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 
 - **Lenguajes:** PHP, Java, Python, JavaScript, C++, SQL, NoSQL  
 - **Frameworks:** Laravel, Symfony, Django  
-- **Herramientas:** Bash, VBScript  
+- **Scripting:** Bash, VBScript  
 
 ## Idiomas
 
@@ -85,7 +85,7 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 
 ### **PHP Rabbit (Nov 2024 - Actualidad)**  
 - Desarrollo de un framework PHP propio enfocado en la creación de APIs.  
-- Se encuentra en fase beta y se puede probar descargando el código del repositorio de [GitHub]().  
+- Se encuentra en fase beta y se puede probar descargando el código del repositorio de [GitHub](https://github.com/mmrasteu/phprabbit-framework).  
 - No recomendado aún para proyectos de producción.  
 
 ### **Aplicación web para gestión de almacén (Ene 2017 - Jun 2017)**  
