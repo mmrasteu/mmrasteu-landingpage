@@ -71,9 +71,10 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 
 ## Tecnologías
 
-- **Lenguajes:** PHP, Java, Python, JavaScript, C++, SQL, NoSQL  
-- **Frameworks:** Laravel, Symfony, Django  
-- **Scripting:** Bash, VBScript  
+  - **Lenguajes:** PHP, Python, JavaScript, CSS, Java ,C++.
+  - **Bases de datos:** SQL, NoSQL. MySQL, SQL Server, MariaDB, MongoDB.
+  - **Frameworks y bibliotecas:** Laravel, Symfony, Django, jquery, NodeJS, React, Vue.
+  - **Scripting:** Bash, VBScript.
 
 ## Idiomas
 
