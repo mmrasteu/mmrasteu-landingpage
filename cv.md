@@ -1,14 +1,13 @@
 # Curriculum Vitae
 
-## Miguel Ángel Magrañal Rasteu | Senior Software Engineer
+## Miguel Ángel Magrañal Rasteu | Senior Software Developer
 
 ## Datos de contacto
 
 - **Nombre:** Miguel Ángel Magrañal Rasteu  
 - **Email:** mmrasteu@gmail.com  
 - **Redes sociales:**  
-  - **LinkedIn:** [www.linkedin.com/in/mmrasteu](https://www.linkedin.com/in/mmrasteu)  
-  - **X (Twitter):** [@mmrasteu](https://x.com/mmrasteu)  
+  - **LinkedIn:** [www.linkedin.com/in/mmrasteu](https://www.linkedin.com/in/mmrasteu)
 
 ## Sobre mí
 
@@ -27,7 +26,7 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 
 ---
 
-### **Freelance Software Engineer (Profesional independiente)**  
+### **Freelance Software Developer (Profesional independiente)**  
 📅 *Abr 2020 - Actualidad* | 🌍 Teletrabajo  
 
 - Desarrollo de aplicaciones y páginas web para terceros, además de proyectos propios.  
