@@ -84,9 +84,8 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 ## Proyectos Destacados
 
 ### **PHP Rabbit (Nov 2024 - Actualidad)**  
-- Desarrollo de un framework PHP propio enfocado en la creación de APIs.  
-- Se encuentra en fase beta y se puede probar descargando el código del repositorio de [GitHub](https://github.com/mmrasteu/phprabbit-framework).  
-- No recomendado aún para proyectos de producción.  
+- Estoy desarrollando mi propio framework PHP enfocado en el desarrollo de APIs. Actualmente nos encontramos en la versrion 0.1.0
+- Se encuentra en fase beta por lo cual no se recomienda para proyectos en producción pero se puede acceder al código del repositorio de [GitHub](https://github.com/mmrasteu/phprabbit-framework). 
 
 ### **Aplicación web para gestión de almacén (Ene 2017 - Jun 2017)**  
 - Proyecto de fin de grado: aplicación web para gestionar la base de datos de un almacén de **Ormag Electrodomésticos**.  
