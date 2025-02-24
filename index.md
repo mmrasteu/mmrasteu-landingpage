@@ -14,5 +14,5 @@ Contacto: mmrasteu@gmail.com
 
 ### **PHP Rabbit Framework**  
 - Estoy desarrollando mi propio framework PHP enfocado en el desarrollo de APIs
-- Actualmente nos encontramos en la versrion 0.2.0
+- Actualmente nos encontramos en la versión 0.2.0
 - Se encuentra en fase beta por lo cual no se recomienda para proyectos en producción pero se puede acceder al código del repositorio de [GitHub](https://github.com/mmrasteu/phprabbit-framework). 
