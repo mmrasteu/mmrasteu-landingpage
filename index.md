@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-Bienvenido a mi portfolio de desarrollador backend, mi nombre es Miguel Ángel Magrañal Rasteu y soy Desarrollador desde 2018, especializado en Backend
+Bienvenido a mi portfolio de desarrollador backend, mi nombre es Miguel Ángel Magrañal Rasteu y soy Desarrollador desde 2018, especializado en Backend.
 
 
 Mi expertise en PHP, Java, Python y JavaScript me ha permitido crear aplicaciones con un backend sólido y riguroso, aplicando los principios SOLID y el diseño de arquitecturas como microservicios y hexagonal. 
