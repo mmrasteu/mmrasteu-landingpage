@@ -26,6 +26,7 @@ En cuanto a frameworks he llegado a usar Laravel, Symfony y Django. Actualmente 
 - Desarrollos e implementación de los procesos analizados con un metalenguaje basado en Java y SQL.
 - Digitalización y desarrollo de firma de documentos electrónicos.
 - Coordinación con equipos multidisciplinares de diversas nacionalidades, requiriendo comunicación efectiva en inglés
+
 ---
 
 ### **Freelance Software Developer (Profesional independiente)**  
