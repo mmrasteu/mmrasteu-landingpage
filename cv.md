@@ -11,19 +11,21 @@
 
 ## Sobre mí
 
-Soy desarrollador desde 2018 y he trabajado en una amplia gama de proyectos, desde pequeñas aplicaciones web hasta complejos sitios empresariales. Mi experiencia en PHP, HTML, CSS y JavaScript me ha permitido crear experiencias web efectivas y atractivas. Además, cuento con experiencia en el desarrollo de API REST en Python.  
-
-En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, estoy desarrollando mi propio framework llamado **PHP Rabbit**. Mi pasión por la programación y la resolución de problemas me motiva a seguir creciendo y explorando nuevas tecnologías.  
+Soy Desarrollador desde 2018, especializado en Backend. He trabajado en una amplia gama de proyectos, desde pequeñas aplicaciones web hasta sitios empresariales complejos. 
+Mi expertise en PHP, Java, Python y JavaScript me ha permitido crear aplicaciones con un backend sólido y riguroso, aplicando los principios SOLID y el diseño de arquitecturas como microservicios y hexagonal. 
+Además, cuento con una gran experiencia en el desarrollo de API REST tanto con Python como con PHP. 
+En cuanto a frameworks he llegado a usar Laravel, Symfony y Django. Actualmente estoy desarrollando mi propio framework llamado **PHP Rabbit** entre otros proyectos disponibles en mi GitHub. Mi pasión por la codificación y la resolución de problemas me motiva a seguir creciendo y explorando nuevas tecnologías.
 
 ## Experiencia
 
-### **Senior PHP Developer - Monbus**  
-📅 *Jun 2024 - Actualidad* | 📍 Lugo, Galicia (Presencial)  
+### **Analista Desarrollador en Inditex - Nunegal Consulting**  
+📅 *Mar 2025 - Actualidad* | 🌍 Teletrabajo  
 
-- Desarrollo de nuevas funcionalidades para API REST y aplicaciones web internas.  
-- Tecnologías: PHP, JavaScript, Next.js, scripting Bash, GIT, Symfony, SQL.  
-- Auditorías de seguridad web con Burp Suite.
-
+- Analista Desarrollador externo en el proyecto de IOP de Inditex
+- Análisis de procesos laborales internacionales y toma de requisitos técnicos colaborando con el departamento de Laboral Internacional.
+- Desarrollos e implementación de los procesos analizados con un metalenguaje basado en Java y SQL.
+- Digitalización y desarrollo de firma de documentos electrónicos.
+- Coordinación con equipos multidisciplinares de diversas nacionalidades, requiriendo comunicación efectiva en inglés
 ---
 
 ### **Freelance Software Developer (Profesional independiente)**  
@@ -31,6 +33,15 @@ En cuanto a frameworks, he utilizado Laravel, Symfony y Django. Actualmente, est
 
 - Desarrollo de aplicaciones y páginas web para terceros, además de proyectos propios.  
 - Tecnologías: PHP, JavaScript, SQL, NoSQL, Laravel, Python y scripting.    
+
+---
+
+### **Senior PHP Developer - Monbus**  
+📅 *Jun 2024 - Mar 2025* | 📍 Lugo, Galicia (Presencial)  
+
+- Desarrollo de nuevas funcionalidades para API REST y aplicaciones web internas.  
+- Tecnologías: PHP, JavaScript, Next.js, scripting Bash, GIT, Symfony, SQL.  
+- Auditorías de seguridad web con Burp Suite.
 
 ---
 
