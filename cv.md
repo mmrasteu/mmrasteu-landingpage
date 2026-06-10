@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-## Miguel Ángel Magrañal Rasteu | Senior Software Developer
+## Miguel Ángel Magrañal Rasteu | Senior Backend Developer
 
 ## Datos de contacto
 
