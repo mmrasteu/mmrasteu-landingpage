@@ -18,14 +18,12 @@ En cuanto a frameworks he llegado a usar Laravel, Symfony y Django. Actualmente 
 
 ## Experiencia
 
-### **Analista Desarrollador en Inditex - Nunegal Consulting**  
+### **Senior Backend Developer - Nunegal Consulting**  
 📅 *Mar 2025 - Actualidad* | 🌍 Teletrabajo  
 
-- Analista Desarrollador externo en el proyecto de IOP de Inditex
-- Análisis de procesos laborales internacionales y toma de requisitos técnicos colaborando con el departamento de Laboral Internacional.
-- Desarrollos e implementación de los procesos analizados con un metalenguaje basado en Java y SQL.
-- Digitalización y desarrollo de firma de documentos electrónicos.
+- Desarrollador externo para Inditex Laboral Internacional.
 - Coordinación con equipos multidisciplinares de diversas nacionalidades, requiriendo comunicación efectiva en inglés
+- Tecnologías: Java, SQL, scripting.
 
 ---
 
@@ -37,16 +35,16 @@ En cuanto a frameworks he llegado a usar Laravel, Symfony y Django. Actualmente 
 
 ---
 
-### **Senior PHP Developer - Monbus**  
+### **Senior Backend Developer - Monbus**  
 📅 *Jun 2024 - Mar 2025* | 📍 Lugo, Galicia (Presencial)  
 
-- Desarrollo de nuevas funcionalidades para API REST y aplicaciones web internas.  
-- Tecnologías: PHP, JavaScript, Next.js, scripting Bash, GIT, Symfony, SQL.  
+- Desarrollo de nuevas funcionalidades para API REST y aplicaciones web internas.   
 - Auditorías de seguridad web con Burp Suite.
+- Tecnologías: PHP, JavaScript, Next.js, scripting Bash, GIT, Symfony, SQL. 
 
 ---
 
-### **PHP Developer - Pandora FMS**  
+### **Junior Backend Developer - Pandora FMS**  
 📅 *Abr 2023 - Abr 2024* | 🌍 Teletrabajo  
 
 - Desarrollo de nuevas funcionalidades para aplicaciones web.  
@@ -55,7 +53,7 @@ En cuanto a frameworks he llegado a usar Laravel, Symfony y Django. Actualmente 
 
 ---
 
-### **Full-Stack Developer - InterHanse Outsourcing Services**  
+### **Junior Full-Stack Developer - InterHanse Outsourcing Services**  
 📅 *Dic 2021 - Abr 2023* | 📍 Málaga, Andalucía (Presencial)  
 
 - Desarrollo de nuevas funcionalidades para API REST y diseño de sitios web.  
@@ -91,13 +89,13 @@ En cuanto a frameworks he llegado a usar Laravel, Symfony y Django. Actualmente 
 ## Idiomas
 
 - **Español:** Nativo  
-- **Inglés:** B1  
+- **Inglés:** B1-B2
 
 ## Proyectos Destacados
 
 ### **PHP Rabbit Framework (Nov 2024 - Actualidad)**  
 - Estoy desarrollando mi propio framework PHP enfocado en el desarrollo de APIs. Actualmente nos encontramos en la versión 0.2.0
-- Se encuentra en fase beta por lo cual no se recomienda para proyectos en producción pero se puede acceder al código del repositorio de [GitHub](https://github.com/mmrasteu/phprabbit-framework). 
+- Se encuentra en fase beta por lo cual no se recomienda para proyectos en producción pero se puede acceder al código del repositorio de [GitHub](https://github.com/mmrasteu/phprabbit-framework).
 
 ### **Aplicación web para gestión de almacén (Ene 2017 - Jun 2017)**  
 - Proyecto de fin de grado: aplicación web para gestionar la base de datos de un almacén de **Ormag Electrodomésticos**.  
